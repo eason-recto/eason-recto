@@ -7,7 +7,7 @@ Hi 👋 My name is Eason
 * 🌍  I'm based in New York, New York
 * 🌱 I’m currently studying for my Salesforce Platform Developer 2 Certification
 * 💞️ I'm happily married with one child/kitten
-* 🏆 I love to play baseball/softball (go Nats), follow the NBA (go Blazers/Knicks), and like to compete at [HYROX](https://hyrox.com/) races
+* 🏆 I like to play baseball/softball (go Nats), follow the NBA (go Blazers/Knicks), and compete at [HYROX](https://hyrox.com/) races
 
 ### Skills
 
