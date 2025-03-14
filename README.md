@@ -1,11 +1,11 @@
 Hi 👋 My name is Eason
 ======================
 
-4x Certified Salesforce Developer & Consultant
+5x Certified Salesforce Developer / Architect / Consultant
 ----------------------------------------------
 
 * 🌍  I'm based in New York, New York
-* 🌱 I’m currently studying for the Salesforce Platform Developer 2 and Agentforce Specialist Certifications
+* 🌱 I’m currently studying for the Salesforce Platform Developer 2 and Application Architect Certifications
 * 💞️ I'm happily married with one child/kitten
 * 🏆 I like to play baseball/softball (go Nats), follow the NBA (go Blazers/Knicks), and compete at [HYROX](https://hyrox.com/) races
 
@@ -19,7 +19,8 @@ Hi 👋 My name is Eason
 ### Salesforce Certifications
 
 <p align="left">
-<a href="https://trailhead.salesforce.com/en/credentials/platformdeveloperi" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" width="40" height="40" alt="Platform Developer I" /><a href="https://trailhead.salesforce.com/en/credentials/platformappbuilder" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" width="40" height="40" alt="Platform App Builder" /><a href="https://trailhead.salesforce.com/en/credentials/administrator" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" width="40" height="40" alt="Administrator" /><a href="https://trailhead.salesforce.com/en/credentials/associate" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2" width="40" height="40" alt="Associate" /><a href="https://trailhead.salesforce.com/agentblazer" target="_blank" rel="noreferrer"><img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" width="40" height="40" alt="Agentblazer Innovator" />
+<a href="https://trailhead.salesforce.com/en/credentials/platformdeveloperi" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" width="40" height="40" alt="Platform Developer I" /><a href="https://trailhead.salesforce.com/en/credentials/platformappbuilder" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" width="40" height="40" alt="Platform App Builder" /><a href="https://trailhead.salesforce.com/en/credentials/administrator" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" width="40" height="40" alt="Administrator" /><a href="https://trailhead.salesforce.com/en/credentials/associate" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2" width="40" height="40" alt="Associate" /><a href="https://trailhead.salesforce.com/en/credentials/agentforcespecialist" target="_blank" rel="noreferrer"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" width="40" height="40" alt="Agentforce Specialist" />
+</p><a href="https://trailhead.salesforce.com/agentblazer" target="_blank" rel="noreferrer"><img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" width="40" height="40" alt="Agentblazer Innovator" />
 </p>
 
 
